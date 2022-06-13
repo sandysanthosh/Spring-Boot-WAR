@@ -84,3 +84,7 @@ Spring Boot WAR
     ```
     
     
+ #### maven:
+ 
+ Run as-> Now run maven build with goal clean install and it will genearte the project’s war file in target folder
+    
